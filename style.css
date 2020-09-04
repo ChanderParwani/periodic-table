@@ -116,10 +116,10 @@ td:hover{
 	display: flex;
 	flex-wrap: wrap;
 }
-@media only screen and (max-width: 900px)
+@media only screen and (max-width: 1000px)
 {
 	table{
-		overflow-y: auto;
+		overflow-x: auto;
 	}
 }
 
