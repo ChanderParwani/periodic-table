@@ -60,10 +60,6 @@ li{
 		font-size: 0.4em;
 	}
 }
-table{
-display: flex;
-flex-wrap: wrap;
-}
 .n{
 font:5%;
 }
