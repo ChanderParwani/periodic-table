@@ -129,6 +129,7 @@ td:hover{
 .zone3{
 	border:1px solid #bbb;
 	cursor: pointer;
+        display:flex;
 	/*display: inline-block;*/
 	/*margin: 40px 60px;*/
 	font-size: 1.5em;
@@ -139,7 +140,7 @@ td:hover{
 .zone{
 	border:1px solid #bbb;
 	cursor: pointer;
-	/*display: inline-block;*/
+	display: flex;
 	/*margin: 40px 60px;*/
 	font-size: 2em;
 	padding: 15px 40px;
