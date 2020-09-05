@@ -1,6 +1,8 @@
 body{
     margin: 0;
     padding: 0;
+    Background: background:linear-gradient(to bottom right ,#355c7d,#6c5b7b,#c06c84);
+}
 }
 table{
 Overflow-y :auto;
